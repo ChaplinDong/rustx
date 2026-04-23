@@ -1,2 +1,65 @@
-# rustx
-RustX is an open, collaborative knowledge hub dedicated to AI-assisted Rust development. It focuses on practical methods, workflows, and techniques—not implementation code. By leveraging AI programming, we lower barriers to entry, flatten learning curves, and make Rust more approachable for everyone.
+# RustX
+**Rust Anywhere • The AIGC for Rust**
+
+---
+
+## 项目介绍
+RustX 是一个开放、公益、社区驱动的开源项目，专注于**基于 AI 编程的 Rust 开发方法、技巧、流程与最佳实践**分享。
+
+随着 AI 编程工具的普及，编程语言之间的学习门槛与开发难度已经被彻底拉平。RustX 的核心目标，是借助 AI 能力，让每一位开发者都能更轻松、高效、无痛地使用 Rust 进行开发，让开发效率不比基于java，golang，python等语言的开发效率低。
+
+本项目**不提供具体可运行代码、不封装库、不做工具实现**，而是纯粹的**方法、经验、思路、技巧共享平台**，帮助所有人用 AI 快速掌握 Rust 开发。
+
+---
+
+## 项目宗旨
+**让任何地方都可以使用 Rust 开发 —— Rust Everywhere**
+
+我们希望：借助 AI 辅助开发，让 Rust 真正走向全场景、全平台、全领域，无论 Web、后端、前端、嵌入式、跨平台、客户端、系统级开发，都能用 Rust 轻松实现。
+
+---
+
+## 核心理念
+- **AI 降低门槛**：用 AI 抹平 Rust 的学习曲线
+- **方法大于代码**：只分享思路、方法、技巧、流程
+- **开放共享**：所有内容免费、开源、共建
+- **全场景支持**：让 Rust 可以在任何平台、任何领域使用
+- **社区共建**：人人可分享、人人可受益
+
+---
+
+## RustX 提供内容
+本项目为纯方法论知识库，包含但不限于：
+- 适合 Rust 开发的 AI 提示词（Prompt）方法与思路
+- 基于 AI 的 Rust 项目架构、设计与规划方法
+- 使用 AI 快速理解 Rust 核心概念（所有权、生命周期、安全、并发）
+- AI 辅助调试、优化、重构的实用技巧
+- 不同场景下的 Rust + AI 高效开发流程
+- 从零到一学会 Rust 的 AI 辅助学习路线
+- 跨平台、全领域 Rust 开发的通用方法
+- 社区贡献的实战经验、技巧与最佳实践
+
+---
+
+## 适合人群
+- 想快速入门 Rust 的初学者
+- 希望在任何场景使用 Rust 的开发者
+- 想通过 AI 提升 Rust 开发效率的工程师
+- 正在尝试将 Rust 引入实际项目的团队
+- 支持“Rust 随处开发”理念的所有开发者
+
+---
+
+## 参与贡献
+RustX 完全开放，欢迎所有人共建：
+- 分享 Rust + AI 的开发方法与技巧
+- 发布实战经验、工作流、高效思路
+- 完善学习路径、方法总结
+- 提出想法，让 Rust 更易上手、更普及
+
+一起让 **Rust 真正无处不在**。
+
+---
+
+## 开源协议
+本项目所有内容基于 **MIT 开源协议** 开放共享。
